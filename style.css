@@ -1,0 +1,29 @@
+
+p{
+    text-align: justify;
+    color: grey;
+    font-family: sans-serif;
+}
+h2{
+    
+    font-style: bold;
+}
+h1 {
+    color: red;
+    
+}
+.grijs{
+    color: grey;
+}
+
+body{
+    background-color: #e4e4e3;
+    margin-left: 50px;
+    margin-right: 300px;
+    font-family: sans-serif;
+}
+a{ 
+background-color: red;
+padding: 10px;
+text-decoration: none;
+color: white}
